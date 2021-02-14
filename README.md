@@ -65,7 +65,7 @@ else
 <div id="bg"></div>
 <div id="myModal" class="reveal-modal large">
     <div id="traloi">
-      <h1><center>ANH BIẾT MÀ <img src="img/1.gif"/></center></h1></br>
+      <h1><center>ANH BIẾT MÀ </center></h1></br>
 	  <p>Nếu câu trả lời hồi nãy là ép buộc thì hãy trả lời lại nhé :v. Nhập câu trả lời xuống bên dưới và bấm GỬI ĐI</br></br></p>
       <form id="f" name="f">
         <input id="form" name="txt" type="text" />
